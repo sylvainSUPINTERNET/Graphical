@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jolysylvain/CLionProjects/untitled2/main.c
+stdio.h
+-
+GLUT/glut.h
+-
+menu.h
+/Users/jolysylvain/CLionProjects/untitled2/menu.h
+utils.h
+/Users/jolysylvain/CLionProjects/untitled2/utils.h
+
+/Users/jolysylvain/CLionProjects/untitled2/menu.h
+jmorecfg.h
+-
+stdbool.h
+-
+
+/Users/jolysylvain/CLionProjects/untitled2/utils.h
+
